@@ -57,3 +57,4 @@ C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\SQL-API\A
 C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\SQL-API\API\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.pdb
 C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\SQL-API\API\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.genruntimeconfig.cache
 C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\SQL-API\API\ExoAPI\ExoAPI\obj\Debug\net6.0\ref\ExoAPI.dll
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\SQL-API\API\ExoAPI\ExoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

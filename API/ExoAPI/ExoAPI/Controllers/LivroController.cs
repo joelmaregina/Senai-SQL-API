@@ -1,5 +1,6 @@
 ﻿using ExoAPI.Models;
 using ExoAPI.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,6 +11,8 @@ namespace ExoAPI.Controllers
     [Route("api/[controller]")]
 
     [ApiController]
+    [Authorize(Roles = "1")]
+
     public class LivroController : ControllerBase
     {
         private readonly LivroRepository _livroRepository;
