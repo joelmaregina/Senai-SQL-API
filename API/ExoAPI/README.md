@@ -1,7 +1,7 @@
  # 📃 Relatório do Teste de Integração da API :
 
 ## **Objetivo**:
-Este teste tem a finalidade de descrever os resultados do Teste de Integração realizado na aplicação ExoAPI utilizando a ferramente XUnit do Framework .NET(C#).
+Este teste tem a finalidade de descrever os resultados do Teste de Integração realizado na aplicação ExoAPI utilizando a ferramenta XUnit do Framework .NET(C#).
 
 ## **Sobre o teste**:
 
@@ -12,8 +12,9 @@ Este teste tem a finalidade de descrever os resultados do Teste de Integração 
 | Linguagem | C# |
 | IDE| Visual Studio |
 | Tipo de teste| Teste de Integração |
-| Casos de teste com êxito| 2 => 100%
-| Casos de teste com falha| 0 => 0%
+| Casos de teste com êxito| 2 => 100%|
+| Casos de teste com falha| 0 => 0% |
+|Responsável pelo teste|Joelma Regina Assis|
 ---
 ## **Desenho de teste :**
 - O desenho do teste desenvolvido pode ser visto através desde <a href = "https://github.com/joelmaregina/Senai-SQL-API/blob/master/API/ExoAPI/TestXUnit/Controllers/LoginControllerTest.cs">link</a>.
