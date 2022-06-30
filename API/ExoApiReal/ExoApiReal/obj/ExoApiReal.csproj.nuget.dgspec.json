@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\SQL-API\\API\\ExoApiReal\\ExoApiReal\\ExoApiReal.csproj": {}
+    "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\Senai-SQL-API\\API\\ExoApiReal\\ExoApiReal\\ExoApiReal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\SQL-API\\API\\ExoApiReal\\ExoApiReal\\ExoApiReal.csproj": {
+    "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\Senai-SQL-API\\API\\ExoApiReal\\ExoApiReal\\ExoApiReal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\SQL-API\\API\\ExoApiReal\\ExoApiReal\\ExoApiReal.csproj",
+        "projectUniqueName": "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\Senai-SQL-API\\API\\ExoApiReal\\ExoApiReal\\ExoApiReal.csproj",
         "projectName": "ExoApiReal",
-        "projectPath": "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\SQL-API\\API\\ExoApiReal\\ExoApiReal\\ExoApiReal.csproj",
+        "projectPath": "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\Senai-SQL-API\\API\\ExoApiReal\\ExoApiReal\\ExoApiReal.csproj",
         "packagesPath": "C:\\Users\\joelm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\SQL-API\\API\\ExoApiReal\\ExoApiReal\\obj\\",
+        "outputPath": "C:\\Users\\joelm\\Desktop\\Cursos Programação\\Full Stack - Senai\\BackEnd\\Senai-SQL-API\\API\\ExoApiReal\\ExoApiReal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.6, )"

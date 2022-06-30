@@ -1,5 +1,6 @@
 ﻿using ExoApiReal.Models;
 using ExoApiReal.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace ExoApiReal.Controllers
     [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Roles = "1")]
     public class ProjetoController : ControllerBase
     {
         private readonly ProjetoRepository _projetoRepository;
