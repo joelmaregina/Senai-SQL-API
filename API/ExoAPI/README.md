@@ -8,7 +8,7 @@ Este teste tem a finalidade de descrever os resultados do Teste de Integração 
 |Aplicativo| ExoAPI |
 |----------------|----------|
 | Objetivo| Testar a funcionalidade do login : <br> válido e inválido|
-| Ferramentas | XUnit (.NET) <br> Dependência Mock |
+| Ferramentas | XUnit ( Framework.NET) <br> Dependência Mock |
 | Linguagem | C# |
 | IDE| Visual Studio |
 | Tipo de teste| Teste de Integração |
