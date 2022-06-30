@@ -36,7 +36,7 @@ Este teste tem a finalidade de descrever os resultados do Teste de Integração 
 
 - Conforme mostrado na imagem abaixo, a aplicação testada correspondeu ás expectativas de funcionamento, sendo aprovados em todos os testes acima descritos e analisados.
 
- <img alt= "Printscreen da tela de resultados do teste, mostrando aprovação em todos os casos de teste" src= "https://github.com/joelmaregina/Senai-SQL-API/tree/master/API/img/ResultadoTeste.png"> 
+ <img alt= "Printscreen da tela de resultados do teste, mostrando aprovação em todos os casos de teste" src= "https://github.com/joelmaregina/Senai-SQL-API/blob/master/API/img/ResultadoTeste.png"> 
 
 
 
